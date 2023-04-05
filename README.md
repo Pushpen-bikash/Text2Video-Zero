@@ -7,13 +7,13 @@
 	cd Text2Video-Zero/
 	```
 
-2. **Download the run.ipnyb file**
+2. **Download the `run.ipnyb` file**
 
 
 3. **Add the run.ipnyb file to `Text2Video-Zero` directory**
 
 
-4. **Execute run.ipnyb file**
+4. **Execute `run.ipnyb` file**
 
 
 4. **Paper link**
