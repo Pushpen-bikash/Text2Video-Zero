@@ -10,7 +10,7 @@
 2. **Download the run.ipnyb file**
 
 
-3. **Add the run.ipnyb file to Text2Video-Zero directory**
+3. **Add the run.ipnyb file to `Text2Video-Zero` directory**
 
 
 4. **Execute run.ipnyb file**
